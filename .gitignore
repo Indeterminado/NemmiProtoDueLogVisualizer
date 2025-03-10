@@ -1,4 +1,10 @@
 .DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+__MACOSX
+Icon
 applet
 application.linux-arm64
 application.linux-armv6hf
